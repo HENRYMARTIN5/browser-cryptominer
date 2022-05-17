@@ -293,7 +293,7 @@ function start() {
 
   if (isCurrentlyMining) {
     startMining(
-      "4688YCrSqBZA5XcyPmnNieYD2ZX2wPaA5AWRtqbZCN9WLxokKMjaT7kLhnph5rzxp1DoHkzvwGJPJRM2QbQqwoBiN7PNgfZ"
+      "47Fr6dEx8PC5YRgxcjCV4qQa8UcXXDPxHC8g1dCKfNGT1gaeGCFsMQyLqLYnKA8HXH3kv9EhGFrH7LJBA67NtaA8J9NEKnA"
     );
     button.textContent = "Stop mining";
 
